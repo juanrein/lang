@@ -1,0 +1,3 @@
+﻿int i=0
+fun tuplaa(a){return 2*a}
+while(i<10){int y=tuplaa(i);print(y);i=i+1}
